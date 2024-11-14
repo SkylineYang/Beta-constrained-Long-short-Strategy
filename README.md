@@ -1,7 +1,5 @@
 # Beta-constrained Long-short Strategy
 
-### Yang She ys3852@columbia.edu
-
 ## 1. Get Data
 
 In this part, we focus on how to get daily market data, which are useful when constructing the trading strategy.
